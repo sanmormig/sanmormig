@@ -2,7 +2,7 @@
 
 **PhD Student in Polar Ice Microstructure Research | Computer Vision Enthusiast | Python Developer**
 
-Welcome to my GitHub profile! I'm currently pursuing a PhD focused on the microstructure of polar ice cores using computer vision techniques and Python. 
+Welcome to my GitHub profile! I'm pursuing a PhD focused on the microstructure of polar ice cores using computer vision techniques and Python. 
 
 ## 🔬 **Research Interests**
 I specialize in:
