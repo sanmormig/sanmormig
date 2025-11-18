@@ -1,10 +1,10 @@
 # Hi, I'm Miguel 👋
 
-**PhD Student in Polar Ice Microstructure Research | Computer Vision | Python Developer**
+**PhD in Geophysics | Computer Vision | Python Developer**
 
-Welcome to my GitHub profile! I'm pursuing a PhD focused on the microstructure of polar ice cores using computer vision techniques and Python. 
+Welcome to my GitHub profile! PhD in Geophysics (**Marie Sklodowska-Curie Fellow**) with a background in geotechnical engineering. I’ve worked across **instrumentation** and **quantitative imaging** to study how microstructure relates to material behaviour in polar ice.
 
-🔬 **Research Interests**: Glaciology, Computer Vision, Python
+🔬 **Research Interests**:  Climate Data Science, Computer Vision & imaging, Geospatial Analysis, Machine Learning.
 
 🛠️ **Skills**: Python, R, Bash, MATLAB, Jupyter, Docker, Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, Matplotlib, Plotly, Seaborn
 <!---
