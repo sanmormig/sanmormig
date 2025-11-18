@@ -2,7 +2,7 @@
 
 **PhD in Geophysics | Computer Vision | Python Developer**
 
-Welcome to my GitHub profile! PhD in Geophysics (**Marie Sklodowska-Curie Fellow**) with a background in geotechnical engineering. I’ve worked across **instrumentation** and **quantitative imaging** to study how microstructure relates to material behaviour in polar ice.
+Welcome to my GitHub profile! I am Geophysics PhD (**Marie Sklodowska-Curie Fellow**) with a background in geotechnical engineering. I’ve worked across **instrumentation** and **quantitative imaging** to study how microstructure relates to material behaviour in polar ice.
 
 🔬 **Research Interests**:  Climate Data Science, Computer Vision & imaging, Geospatial Analysis, Machine Learning.
 
